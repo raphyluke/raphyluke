@@ -28,6 +28,7 @@
 
 
 ## 💡 Personal Interest
-###### 🍲 Restaurants companies digitalisation.
-###### 🏨 Hotels companies digitalisation.
+###### 🍲 Restaurants & Hotels companies digitalisation.
+###### 🏨 Start-up companies low-cost solutions.
+###### ☁️ Cloud-computing architecturing.
 ###### 🎮 Gamification of teaching and learning.
